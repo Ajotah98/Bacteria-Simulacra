@@ -1,0 +1,19 @@
+Reproducción Binaria: Las bacterias se reproducen a través de un proceso llamado fisión binaria, donde una célula madre se divide en dos células hijas. Este proceso puede ser influenciado por la disponibilidad de recursos y condiciones ambientales.
+
+Mutaciones y Adaptación Genética: Introduce mutaciones aleatorias en el ADN bacteriano durante la reproducción. Esto puede llevar a variaciones en la resistencia a antibióticos, tasas de metabolismo y otros rasgos, permitiendo la adaptación a diferentes ambientes.
+
+Consumo de Recursos y Metabolismo: Las bacterias consumen recursos del ambiente para obtener energía. El tipo y la cantidad de recursos disponibles influyen en su tasa de crecimiento y reproducción. Algunas pueden realizar fotosíntesis, mientras que otras descomponen materia orgánica o inorgánica.
+
+Competencia por Recursos: Cuando dos o más colonias bacterianas compiten por el mismo recurso, la tasa de crecimiento de cada colonia se ve afectada por la disponibilidad de dicho recurso, llevando a una dinámica de competencia.
+
+Comunicación Química (Quorum Sensing): Las bacterias pueden comunicarse y coordinar comportamientos grupales a través de señales químicas. Este comportamiento permite a las bacterias regular colectivamente funciones como la bioluminiscencia, la formación de biofilms y la virulencia.
+
+Formación de Biofilms: Cuando las condiciones son adecuadas, las bacterias pueden adherirse a superficies y formar biofilms, estructuras complejas que les ofrecen protección contra condiciones ambientales hostiles y antibióticos.
+
+Movilidad y Taxis: Las bacterias pueden moverse hacia o alejarse de ciertos estímulos (como nutrientes o toxinas) mediante procesos conocidos como quimiotaxis, fototaxis, etc. Implementa diferentes patrones de movimiento basados en estímulos ambientales.
+
+Resistencia a Antibióticos: Algunas bacterias pueden desarrollar resistencia a antibióticos, un rasgo que puede ser heredado por sus descendientes. Este fenómeno puede ser modelado como una respuesta adaptativa a la exposición a agentes antimicrobianos.
+
+Interacciones Simbióticas y Patógenas: Modela cómo las bacterias pueden establecer relaciones tanto beneficiosas (simbiosis) como dañinas (patogénesis) con otros organismos, afectando su crecimiento, supervivencia y reproducción.
+
+Ciclos de Vida y Muerte: Define ciclos de vida para las bacterias que incluyan etapas de crecimiento rápido, estasis en condiciones desfavorables y muerte. La muerte puede ser causada por falta de recursos, acumulación de toxinas, o intervención de antibióticos.
